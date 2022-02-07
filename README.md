@@ -1,5 +1,7 @@
 # aj-fivem-appearance
 
+Forked by Trist/Trisp for the sake of maintaining.
+
 Original Script: https://github.com/pedr0fontoura/fivem-appearance
 
 ESX Version: https://github.com/ZiggyJoJo/brp-fivem-appearance
